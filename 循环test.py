@@ -1,4 +1,3 @@
-names = ['elan','james','peter']
-for name in names:
-	print(name)
-print ("I am Elan")
+L = ["alen","unix","windows"]
+for n in L :
+	print ("hello,%s!"%n)
